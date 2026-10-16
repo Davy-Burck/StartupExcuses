@@ -3,7 +3,7 @@
 ##  Vue d'ensemble du projet
 **StartupExcuses** est un projet d'infrastructure cloud conçu pour héberger une application web de manière hautement sécurisée, résiliente et optimisée financièrement. 
 
-Réalisé dans le cadre de la préparation de mon portfolio pour ma recherche de stage, ce projet implémente une architecture réseau cloisonnée, garantissant une isolation stricte entre la surface d'exposition publique et les données sensibles.
+Réalisé dans le cadre de la préparation de ma formation en Cybersécurité, ce projet implémente une architecture réseau cloisonnée, garantissant une isolation stricte entre la surface d'exposition publique et les données sensibles.
 
 ---
 
